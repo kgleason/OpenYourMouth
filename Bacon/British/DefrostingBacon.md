@@ -1,7 +1,7 @@
 # Defrosting Bacon
 ## Getting bacon quicker
 
-There are two methods that seem to work for this task, but both carry the risk of partially cooking one's bacon. These methods are in no way guaranteed or scientifically tested; proceed with caution, or just leave you bacon in the fridge the night before.
+There are multiple methods that seem to work for this task, but both carry the risk of partially cooking one's bacon. These methods are in no way guaranteed or scientifically tested; proceed with caution, or just leave you bacon in the fridge the night before.
 
 ### The microwave method
 
@@ -36,6 +36,22 @@ There are two methods that seem to work for this task, but both carry the risk o
 5. Leave for 5 minutes repeat (5) until bacon is defrosted
 	- Check bacon after each cycle
 6. Do something with your bacon
+
+
+### Cold Water
+
+> A little slower than the heat based methods, but faster than the fridge. And no risk of accidentally cooking the bacon.
+
+1. Is the bacon in packaging
+    - (yes) Proceed
+	- (no) Choose a different method
+1. Empty all of the dirty dishes out of the sink.
+1. Place the package of bacon under the faucet.
+1. Run the cold water slowly over the bacon.
+1. After 20 minutes, check every 10 minutes to see if it is thawed enough to cook. Times will vary based on
+    - coldness of freezer
+	- type of packaging
+	- amount of bacon
 
 ### Defrosting in a Fridge
 > The advantage of this method lays in the fact that you run no risk of cooking your bacon or forgetting it out unrefridgerated.
