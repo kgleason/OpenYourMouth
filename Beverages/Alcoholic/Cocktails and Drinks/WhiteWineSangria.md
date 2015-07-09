@@ -1,5 +1,5 @@
 # White Wine Sangria
-This one is always a hit on a sunny day. I don't have a receipt to make it in a more
+This one is always a hit on a sunny day. I don't have a receipe to make it in a more
 reasonable size.
 
 ### Ingredients
